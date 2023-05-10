@@ -1,0 +1,3 @@
+card_approval_data[[‘Age’,’Debt’,’YearsEmployed’,’CreditScore’,’Income’]].describe()
+
+

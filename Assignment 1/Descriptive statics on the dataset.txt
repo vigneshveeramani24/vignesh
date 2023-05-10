@@ -1,0 +1,11 @@
+five_num = [mtcars["mpg"].quantile(0),   
+            mtcars["mpg"].quantile(0.25),
+            mtcars["mpg"].quantile(0.50),
+            mtcars["mpg"].quantile(0.75),
+            mtcars["mpg"].quantile(1)]
+
+
+Output:
+
+five_num
+[10.4, 15.425, 19.2, 22.8, 33.9]
